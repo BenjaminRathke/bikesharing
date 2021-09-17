@@ -1,2 +1,5 @@
 #Ignore large data file
 201908-citibike-tripdata.csv
+
+#Ignore large data file
+201908-citibike-tripdata_2.csv

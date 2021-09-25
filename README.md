@@ -4,11 +4,11 @@
 
 ## Results
 ### Single Use Customer vs. Program Subscribers  
-![Visualization](images/1.PNG)  
+![Visualization](images/1.png)
 We see well over 75% of all users are subscribers.  This would indicate a consistent revenue stream from local users rather than one-off tourist or "try it out" usage.  
 
 ### Trip Length by Year of Birth  
-![Visualization](images/2.PNG)  
+![Visualization](images/2.png)  
 Users may have input erroneous data for year of birth (it is unlikely that someone born in 1891 rode a bike through New York City for 45 mintues).  More telling is the trip length amongst late Millenial and Gen Z users.  An analysis of average birth year of Des Moines residents could predict the relative success of the program based on age and length of trip.  
 
 

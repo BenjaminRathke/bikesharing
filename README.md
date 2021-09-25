@@ -4,8 +4,8 @@
 
 ## Results
 
-A fully interractive dashboard may be found here.
-[link to dashboard](https://public.tableau.com/shared/QKTF6SRWH?:display_count=n&:origin=viz_share_link "link to dashboard")  
+A fully interractive dashboard may be found .
+[link to dashboard](https://public.tableau.com/shared/QKTF6SRWH?:display_count=n&:origin=viz_share_link "here.")  
 
 ### Single Use Customer vs. Program Subscribers  
 ![Visualization](images/1.png)

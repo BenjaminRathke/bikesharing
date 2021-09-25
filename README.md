@@ -39,7 +39,9 @@ Thursdays tend to be the busiest days, and again, men seem to use the program mo
 
 Note:  Repair costs associated with more usage by subscribers should be considered when pricing subscription pricing.  
 ## Summary
+Ultimately the results illustrate that men tend to use the bikesharing program more than women.  Commute times are expectedly clustered around rush hours during weekdays, and leisure hours during weekends.  Subscription customers significantly outweigh single-use customers, illustrating that the program is typically used for travel by residents of the area more than, perhaps, tourists.  Most rides usually last less than twenty minutes.  Ultimately, more demographic information would be necessary about metropolitan residents of Des Moines, Iowa and how they compare to the demographic infomration from New York City, New York shown in this analysis.
 
+I would suggest demographic data visualizations for Des Moines, Iowa, specifically average ages.  As we see from the trip length by year of birth, younger generations tend to use the program more than older generations.  Furthermore, I would utilize google maps data to create visualizations regarding average bike commute times in and around multiple residential and commercial locations in downtown Des Moines; if the typical calculcated commute is over twenty minutes, that may pose a problem for this proposed business.
 
 ## Acknowledgement  
 

@@ -1,6 +1,7 @@
-# NY CitiBike with Tableau
+# NY CitiBike with Tableau  
 
 ## Overview of The Analysis
+By utilizing data from a New York City bike sharing program, a data analyst may be able to help investors make data-driven decisions regarding whether or not her startup bikesharing program in Des Moines, Iowa could be successful and deserving of investment.  
 
 ## Results
 
@@ -40,7 +41,8 @@ Note:  Repair costs associated with more usage by subscribers should be consider
 ## Summary
 
 
-Discovered code from
-http://tableauworkaround.blogspot.com/2016/06/hhmmss-to-seconds-in-tableau.html
+## Acknowledgement  
 
-https://public.tableau.com/shared/QKTF6SRWH?:display_count=n&:origin=viz_share_link
+Utilized code to create a calculated field converting datetime format to trip time in seconds.  
+
+http://tableauworkaround.blogspot.com/2016/06/hhmmss-to-seconds-in-tableau.html
